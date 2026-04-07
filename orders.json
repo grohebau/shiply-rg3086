@@ -1,0 +1,47 @@
+{
+  "SE428152731DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Quintinsstraße 6, 55131 Mainz, Deutschland",
+    "receiver": "Jaromír Němeček, SNP 1184, 765 02 Otrokovice, Tschechische Republik",
+    "price": "9.560,00 €",
+    "description": "Hersteller: Boom Trike<br>Typ: Family 5i<br>Fahrgestelnummer: WBC5BML127S002627<br>Erstzulassung: 05/2007<br>KM laut Vorbesitzer: 21.545 km<br>Leistung: 39 kW (53 PS)<br>Hubraum: 1600 cm³<br>Farbe: Blau<br><br>Das Trike ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten, inklusive COC-Papier.<br>inkl. Koffer/Top Case",
+    "address": "Jaromír Němeček<br>Smetanowa 1634<br>765 02 Otrokovice<br>Tschechische Republik<br>Telefon: +420 608 346 699",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "07.04.2026",
+    "deliveryDate": "10.04.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "Smetanowa 1634",
+      "postal_code": "765 02",
+      "city": "Otrokovice",
+      "country": "Tschechische Republik",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
